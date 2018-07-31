@@ -1,1 +1,1 @@
-airvisapi = "RbhkYKkBJSozvjASQ"
+airvisapi = ""
