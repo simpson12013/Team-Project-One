@@ -1,0 +1,51 @@
+LocationDesc,YearStart,LocationAbbr,Question,DataValueUnit,DataValueType,DataValue
+Alabama,2010,AL,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Alaska,2010,AK,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Arizona,2010,AZ,Hospitalizations for asthma,"cases per 10,000",Crude Rate,12.59
+Arkansas,2010,AR,Hospitalizations for asthma,"cases per 10,000",Crude Rate,9.72
+California,2010,CA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,9.26
+Colorado,2010,CO,Hospitalizations for asthma,"cases per 10,000",Crude Rate,8.59
+Connecticut,2010,CT,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Delaware,2010,DE,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Florida,2010,FL,Hospitalizations for asthma,"cases per 10,000",Crude Rate,16
+Georgia,2010,GA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Hawaii,2010,HI,Hospitalizations for asthma,"cases per 10,000",Crude Rate,8.27
+Idaho,2010,ID,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Illinois,2010,IL,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Indiana,2010,IN,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Iowa,2010,IA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,7.38
+Kansas,2010,KS,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Kentucky,2010,KY,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.22
+Louisiana,2010,LA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Maine,2010,ME,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Maryland,2010,MD,Hospitalizations for asthma,"cases per 10,000",Crude Rate,16.44
+Massachusetts,2010,MA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.45
+Michigan,2010,MI,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.43
+Minnesota,2010,MN,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Mississippi,2010,MS,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.78
+Missouri,2010,MO,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Montana,2010,MT,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Nebraska,2010,NE,Hospitalizations for asthma,"cases per 10,000",Crude Rate,7.36
+Nevada,2010,NV,Hospitalizations for asthma,"cases per 10,000",Crude Rate,10.74
+New Hampshire,2010,NH,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+New Jersey,2010,NJ,Hospitalizations for asthma,"cases per 10,000",Crude Rate,17.14
+New Mexico,2010,NM,Hospitalizations for asthma,"cases per 10,000",Crude Rate,8.75
+New York,2010,NY,Hospitalizations for asthma,"cases per 10,000",Crude Rate,18.87
+North Carolina,2010,NC,Hospitalizations for asthma,"cases per 10,000",Crude Rate,10.94
+North Dakota,2010,ND,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Ohio,2010,OH,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Oklahoma,2010,OK,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Oregon,2010,OR,Hospitalizations for asthma,"cases per 10,000",Crude Rate,6.17
+Pennsylvania,2010,PA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Rhode Island,2010,RI,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.05
+South Carolina,2010,SC,Hospitalizations for asthma,"cases per 10,000",Crude Rate,13.11
+South Dakota,2010,SD,Hospitalizations for asthma,"cases per 10,000",Crude Rate,7.03
+Tennessee,2010,TN,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Texas,2010,TX,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Utah,2010,UT,Hospitalizations for asthma,"cases per 10,000",Crude Rate,5.46
+Vermont,2010,VT,Hospitalizations for asthma,"cases per 10,000",Crude Rate,4.71
+Virginia,2010,VA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
+Washington,2010,WA,Hospitalizations for asthma,"cases per 10,000",Crude Rate,7.25
+West Virginia,2010,WV,Hospitalizations for asthma,"cases per 10,000",Crude Rate,15.21
+Wisconsin,2010,WI,Hospitalizations for asthma,"cases per 10,000",Crude Rate,8.62
+Wyoming,2010,WY,Hospitalizations for asthma,"cases per 10,000",Crude Rate,NaN
