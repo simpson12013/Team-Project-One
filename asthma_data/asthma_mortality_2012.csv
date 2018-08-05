@@ -1,0 +1,51 @@
+LocationDesc,YearStart,LocationAbbr,Question,DataValueUnit,DataValueType,DataValue
+Alabama,2012,AL,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11.8
+Alaska,2012,AK,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Arizona,2012,AZ,Asthma mortality rate,"cases per 1,000,000",Crude Rate,12.2
+Arkansas,2012,AR,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.2
+California,2012,CA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.1
+Colorado,2012,CO,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.6
+Connecticut,2012,CT,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.9
+Delaware,2012,DE,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Florida,2012,FL,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.1
+Georgia,2012,GA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,9.4
+Hawaii,2012,HI,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Idaho,2012,ID,Asthma mortality rate,"cases per 1,000,000",Crude Rate,13.2
+Illinois,2012,IL,Asthma mortality rate,"cases per 1,000,000",Crude Rate,13.5
+Indiana,2012,IN,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11
+Iowa,2012,IA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11.4
+Kansas,2012,KS,Asthma mortality rate,"cases per 1,000,000",Crude Rate,9
+Kentucky,2012,KY,Asthma mortality rate,"cases per 1,000,000",Crude Rate,5.7
+Louisiana,2012,LA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,8.7
+Maine,2012,ME,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Maryland,2012,MD,Asthma mortality rate,"cases per 1,000,000",Crude Rate,15.5
+Massachusetts,2012,MA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,8.7
+Michigan,2012,MI,Asthma mortality rate,"cases per 1,000,000",Crude Rate,10.8
+Minnesota,2012,MN,Asthma mortality rate,"cases per 1,000,000",Crude Rate,13.4
+Mississippi,2012,MS,Asthma mortality rate,"cases per 1,000,000",Crude Rate,15.1
+Missouri,2012,MO,Asthma mortality rate,"cases per 1,000,000",Crude Rate,12.5
+Montana,2012,MT,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Nebraska,2012,NE,Asthma mortality rate,"cases per 1,000,000",Crude Rate,14
+Nevada,2012,NV,Asthma mortality rate,"cases per 1,000,000",Crude Rate,7.2
+New Hampshire,2012,NH,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+New Jersey,2012,NJ,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11.6
+New Mexico,2012,NM,Asthma mortality rate,"cases per 1,000,000",Crude Rate,12.9
+New York,2012,NY,Asthma mortality rate,"cases per 1,000,000",Crude Rate,14.5
+North Carolina,2012,NC,Asthma mortality rate,"cases per 1,000,000",Crude Rate,12.6
+North Dakota,2012,ND,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Ohio,2012,OH,Asthma mortality rate,"cases per 1,000,000",Crude Rate,12.6
+Oklahoma,2012,OK,Asthma mortality rate,"cases per 1,000,000",Crude Rate,14.2
+Oregon,2012,OR,Asthma mortality rate,"cases per 1,000,000",Crude Rate,14.4
+Pennsylvania,2012,PA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11.4
+Rhode Island,2012,RI,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+South Carolina,2012,SC,Asthma mortality rate,"cases per 1,000,000",Crude Rate,17.1
+South Dakota,2012,SD,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Tennessee,2012,TN,Asthma mortality rate,"cases per 1,000,000",Crude Rate,9
+Texas,2012,TX,Asthma mortality rate,"cases per 1,000,000",Crude Rate,7.9
+Utah,2012,UT,Asthma mortality rate,"cases per 1,000,000",Crude Rate,9.8
+Vermont,2012,VT,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Virginia,2012,VA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,13.1
+Washington,2012,WA,Asthma mortality rate,"cases per 1,000,000",Crude Rate,11.2
+West Virginia,2012,WV,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
+Wisconsin,2012,WI,Asthma mortality rate,"cases per 1,000,000",Crude Rate,13.6
+Wyoming,2012,WY,Asthma mortality rate,"cases per 1,000,000",Crude Rate,NaN
