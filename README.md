@@ -1,1 +1,1 @@
-# teamGithub
+A broad collaborative exploration of relationships surrounding changes in Air Quality Index. This was achieved through a comparison of energy consumption data and asthma hospitalization with historical AQI data.
